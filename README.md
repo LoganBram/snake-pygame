@@ -1,7 +1,7 @@
 # Snake Eater
 A snake game written in Python using the Pygame library.
 
-![Example Gif][pygame.gif]
+![Example Gif](pygame.gif)
 
 
 ## Installing
